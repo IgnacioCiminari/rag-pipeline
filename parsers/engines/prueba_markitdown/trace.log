@@ -1,0 +1,199 @@
+2026-06-18 16:24:37,986 - INFO - Iniciando ejecución principal del script de MarkItDown.
+2026-06-18 16:24:38,368 - INFO - [NATIVE] PDF abierto exitosamente. Total de páginas: 24
+2026-06-18 16:24:38,385 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,387 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,391 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,393 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,397 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,400 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,400 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,408 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,408 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,416 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,416 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,416 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,416 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,433 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,433 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,433 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,433 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,433 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,449 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,449 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,671 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,813 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,813 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,813 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,813 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:38,813 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,171 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,171 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,400 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,651 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,651 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,753 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:39,865 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:40,337 - INFO - [NATIVE] Consenso de márgenes globales calculado: Header Y=None, Footer Y=None
+2026-06-18 16:24:40,337 - INFO - [HIERARCHY] Tamaño de fuente base (moda): 10pt
+2026-06-18 16:24:40,337 - INFO - [HIERARCHY] Umbrales calculados: H1>=Nonept, H2>=16pt, H3>=12pt
+2026-06-18 16:24:40,337 - INFO - [NATIVE] Extrayendo contenido de la página 1...
+2026-06-18 16:24:40,337 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,352 - INFO - [NATIVE_TABLE] Se extrajeron 32 palabras.
+2026-06-18 16:24:40,352 - INFO - [NATIVE_TABLE] Se analizaron 32 filas horizontales potenciales.
+2026-06-18 16:24:40,352 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,368 - INFO - [NATIVE] Extrayendo contenido de la página 2...
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Se extrajeron 29 palabras.
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Se analizaron 23 filas horizontales potenciales.
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Hay 1 filas de tabla en 1 regiones, sobre un total de 23 filas.
+2026-06-18 16:24:40,368 - INFO - [NATIVE_TABLE] Menos del 5% son filas de tabla (0.043478260869565216). Abortando.
+2026-06-18 16:24:40,384 - INFO - [NATIVE] Extrayendo contenido de la página 3...
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Se extrajeron 50 palabras.
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Se analizaron 34 filas horizontales potenciales.
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 9
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Se estimaron 4 columnas globales con tolerancia 50.
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Hay 7 filas de tabla en 7 regiones, sobre un total de 34 filas.
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:40,384 - INFO - [NATIVE] Extrayendo contenido de la página 4...
+2026-06-18 16:24:40,384 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,406 - INFO - [NATIVE_TABLE] Se extrajeron 43 palabras.
+2026-06-18 16:24:40,406 - INFO - [NATIVE_TABLE] Se analizaron 37 filas horizontales potenciales.
+2026-06-18 16:24:40,406 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,410 - INFO - [NATIVE] Extrayendo contenido de la página 5...
+2026-06-18 16:24:40,414 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Se extrajeron 53 palabras.
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Se analizaron 35 filas horizontales potenciales.
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Hay 5 filas de tabla en 2 regiones, sobre un total de 35 filas.
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:40,416 - INFO - [NATIVE] Extrayendo contenido de la página 6...
+2026-06-18 16:24:40,416 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] Se extrajeron 65 palabras.
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] Se analizaron 49 filas horizontales potenciales.
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] Hay 10 filas de tabla en 10 regiones, sobre un total de 49 filas.
+2026-06-18 16:24:40,443 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:40,443 - INFO - [NATIVE] Extrayendo contenido de la página 7...
+2026-06-18 16:24:40,451 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,454 - INFO - [NATIVE_TABLE] Se extrajeron 33 palabras.
+2026-06-18 16:24:40,454 - INFO - [NATIVE_TABLE] Se analizaron 30 filas horizontales potenciales.
+2026-06-18 16:24:40,454 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,456 - INFO - [NATIVE] Extrayendo contenido de la página 8...
+2026-06-18 16:24:40,456 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,464 - INFO - [NATIVE_TABLE] Se extrajeron 40 palabras.
+2026-06-18 16:24:40,464 - INFO - [NATIVE_TABLE] Se analizaron 38 filas horizontales potenciales.
+2026-06-18 16:24:40,464 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,464 - INFO - [NATIVE] Extrayendo contenido de la página 9...
+2026-06-18 16:24:40,464 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se extrajeron 63 palabras.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se analizaron 45 filas horizontales potenciales.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Hay 14 filas de tabla en 12 regiones, sobre un total de 45 filas.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:40,481 - INFO - [NATIVE] Extrayendo contenido de la página 10...
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se extrajeron 40 palabras.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] Se analizaron 30 filas horizontales potenciales.
+2026-06-18 16:24:40,481 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,495 - INFO - [NATIVE] Extrayendo contenido de la página 11...
+2026-06-18 16:24:40,607 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] Se extrajeron 46 palabras.
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] Se analizaron 35 filas horizontales potenciales.
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 6
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] Hay 5 filas de tabla en 4 regiones, sobre un total de 35 filas.
+2026-06-18 16:24:40,624 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:40,624 - INFO - [NATIVE] Extrayendo contenido de la página 12...
+2026-06-18 16:24:40,624 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:40,822 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:40,822 - INFO - [NATIVE_TABLE] Se extrajeron 41 palabras.
+2026-06-18 16:24:40,830 - INFO - [NATIVE_TABLE] Se analizaron 37 filas horizontales potenciales.
+2026-06-18 16:24:40,830 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:40,832 - INFO - [NATIVE] Extrayendo contenido de la página 13...
+2026-06-18 16:24:41,083 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] Se extrajeron 53 palabras.
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] Se analizaron 36 filas horizontales potenciales.
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 6
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] Hay 7 filas de tabla en 5 regiones, sobre un total de 36 filas.
+2026-06-18 16:24:41,099 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:41,099 - INFO - [NATIVE] Extrayendo contenido de la página 14...
+2026-06-18 16:24:41,387 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,387 - INFO - [NATIVE_TABLE] Se extrajeron 41 palabras.
+2026-06-18 16:24:41,387 - INFO - [NATIVE_TABLE] Se analizaron 35 filas horizontales potenciales.
+2026-06-18 16:24:41,387 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:41,387 - INFO - [NATIVE] Extrayendo contenido de la página 15...
+2026-06-18 16:24:41,466 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,466 - INFO - [NATIVE_TABLE] Se extrajeron 41 palabras.
+2026-06-18 16:24:41,466 - INFO - [NATIVE_TABLE] Se analizaron 39 filas horizontales potenciales.
+2026-06-18 16:24:41,466 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:41,466 - INFO - [NATIVE] Extrayendo contenido de la página 16...
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Se extrajeron 51 palabras.
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Se analizaron 36 filas horizontales potenciales.
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 16
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Se estimaron 4 columnas globales con tolerancia 50.
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] Hay 5 filas de tabla en 2 regiones, sobre un total de 36 filas.
+2026-06-18 16:24:41,674 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:41,674 - INFO - [NATIVE] Extrayendo contenido de la página 17...
+2026-06-18 16:24:41,818 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,835 - INFO - [NATIVE_TABLE] Se extrajeron 43 palabras.
+2026-06-18 16:24:41,835 - INFO - [NATIVE_TABLE] Se analizaron 38 filas horizontales potenciales.
+2026-06-18 16:24:41,835 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:41,835 - INFO - [NATIVE] Extrayendo contenido de la página 18...
+2026-06-18 16:24:41,930 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:41,930 - INFO - [NATIVE_TABLE] Se extrajeron 43 palabras.
+2026-06-18 16:24:41,930 - INFO - [NATIVE_TABLE] Se analizaron 36 filas horizontales potenciales.
+2026-06-18 16:24:41,930 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:41,930 - INFO - [NATIVE] Extrayendo contenido de la página 19...
+2026-06-18 16:24:42,116 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] Se extrajeron 47 palabras.
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] Se analizaron 33 filas horizontales potenciales.
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] Hay 4 filas de tabla en 3 regiones, sobre un total de 33 filas.
+2026-06-18 16:24:42,132 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:42,132 - INFO - [NATIVE] Extrayendo contenido de la página 20...
+2026-06-18 16:24:42,132 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,132 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,132 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,132 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Se extrajeron 44 palabras.
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Se analizaron 36 filas horizontales potenciales.
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Hay 1 filas de tabla en 1 regiones, sobre un total de 36 filas.
+2026-06-18 16:24:42,291 - INFO - [NATIVE_TABLE] Menos del 5% son filas de tabla (0.027777777777777776). Abortando.
+2026-06-18 16:24:42,291 - INFO - [NATIVE] Extrayendo contenido de la página 21...
+2026-06-18 16:24:42,291 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,459 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,467 - INFO - [NATIVE_TABLE] Se extrajeron 52 palabras.
+2026-06-18 16:24:42,467 - INFO - [NATIVE_TABLE] Se analizaron 45 filas horizontales potenciales.
+2026-06-18 16:24:42,467 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:42,467 - INFO - [NATIVE] Extrayendo contenido de la página 22...
+2026-06-18 16:24:42,650 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,658 - INFO - [NATIVE_TABLE] Se extrajeron 32 palabras.
+2026-06-18 16:24:42,658 - INFO - [NATIVE_TABLE] Se analizaron 32 filas horizontales potenciales.
+2026-06-18 16:24:42,658 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:42,658 - INFO - [NATIVE] Extrayendo contenido de la página 23...
+2026-06-18 16:24:42,787 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,787 - INFO - [NATIVE_TABLE] Se extrajeron 34 palabras.
+2026-06-18 16:24:42,787 - INFO - [NATIVE_TABLE] Se analizaron 30 filas horizontales potenciales.
+2026-06-18 16:24:42,787 - INFO - [NATIVE_TABLE] No se encontraron filas con 3 o más columnas. Se asume que no hay tablas.
+2026-06-18 16:24:42,787 - INFO - [NATIVE] Extrayendo contenido de la página 24...
+2026-06-18 16:24:42,787 - WARNING - Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Iniciando _extract_form_content_from_words para la página actual.
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Se extrajeron 23 palabras.
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Se analizaron 18 filas horizontales potenciales.
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Se encontraron posiciones X para columnas: 3
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Se estimaron 3 columnas globales con tolerancia 35.
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] Hay 1 filas de tabla en 1 regiones, sobre un total de 18 filas.
+2026-06-18 16:24:42,883 - INFO - [NATIVE_TABLE] ¡Tabla válida detectada! Procediendo a renderizarla en Markdown.
+2026-06-18 16:24:42,899 - INFO - [NATIVE] Se extrajeron 9 páginas con contenido tabular o de formulario estructurado.

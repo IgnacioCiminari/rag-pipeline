@@ -1,8 +1,9 @@
 # EXP-001 - Prueba de Formato de Salida de los Parsers
 
-Fecha: 03-08-2026
+Fecha: 11-08-2026
 
 # Pregunta o Decisión que se Quiere Investigar
+
 ¿Qué características presenta la salida en formato Markdown generada por el parser actualmente utilizado y en qué medida las alternativas evaluadas son capaces de preservar esas mismas características?
 
 En particular, se analizará cómo cada parser representa distintos elementos del documento, como títulos, bloques de texto, listas, tablas, fórmulas, código, imágenes y contenido distribuido en múltiples columnas. A partir de esta comparación se busca determinar si las alternativas producen una salida suficientemente consistente con la estructura y el contenido del documento original como para ser consideradas en las siguientes etapas de la investigación.

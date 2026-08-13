@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  hybrid-server:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5002:5002"
+    environment:
+      - DOCLING_DEBUG_PROFILE_PIPELINE_TIMINGS=true
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    # Para usar OCR forzado o características extra puedes modificar el comando:
+    # command: ["opendataloader-pdf-hybrid", "--host", "0.0.0.0", "--port", "5002", "--force-ocr", "--enrich-formula"]

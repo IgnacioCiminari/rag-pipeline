@@ -11,8 +11,8 @@ from opendataloader_pdf import convert as opendataloader_convert
 
 def main():
     # Directorios de entrada y salida
-    input_dir = os.path.join("datos", "corpus_original")
-    output_base_dir = "resultados/prueba_formato_02"
+    input_dir = os.path.join("datos", "corpus_versionado")
+    output_base_dir = "resultados/prueba_formato_03"
     
     dd_out_dir = os.path.join(output_base_dir, "deepdoc")
     mkd_out_dir = os.path.join(output_base_dir, "markitdown")
@@ -46,28 +46,28 @@ def main():
         
         # 2. MarkItDown
         out_mkd = os.path.join(mkd_out_dir, f"{name_without_ext}.md")
-        #print("Ejecutando MarkItDown...")
-        #try:
-        #    parse_with_markitdown(pdf_file, out_mkd)
-        #    print(f"  -> Éxito. Guardado en: {out_mkd}")
-        #except Exception as e:
-        #    print(f"  -> Error con MarkItDown: {e}")
+        print("Ejecutando MarkItDown...")
+        try:
+            parse_with_markitdown(pdf_file, out_mkd)
+            print(f"  -> Éxito. Guardado en: {out_mkd}")
+        except Exception as e:
+            print(f"  -> Error con MarkItDown: {e}")
             
         # 3. OpenDataLoader (Docker port 5002)
-        print("Ejecutando OpenDataLoader (Docker)...")
-        try:
-            opendataloader_convert(
-                input_path=pdf_file,
-                output_dir=odl_out_dir,
-                format="markdown",
-                hybrid="docling-fast",
-                hybrid_mode="full",
-                hybrid_url="http://localhost:5002"
-            )
-            out_odl = os.path.join(odl_out_dir, f"{name_without_ext}.md")
-            print(f"  -> Éxito. Guardado en: {out_odl}")
-        except Exception as e:
-            print(f"  -> Error con OpenDataLoader: {e}")
+        #print("Ejecutando OpenDataLoader (Docker)...")
+        #try:
+        #    opendataloader_convert(
+        #        input_path=pdf_file,
+        #        output_dir=odl_out_dir,
+        #        format="markdown",
+        #        hybrid="docling-fast",
+        #        hybrid_mode="full",
+        #        hybrid_url="http://localhost:5002"
+        #    )
+        #    out_odl = os.path.join(odl_out_dir, f"{name_without_ext}.md")
+        #    print(f"  -> Éxito. Guardado en: {out_odl}")
+        #except Exception as e:
+        #    print(f"  -> Error con OpenDataLoader: {e}")
             
     print("\nProcesamiento finalizado.")
 

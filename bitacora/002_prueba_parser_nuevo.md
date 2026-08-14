@@ -34,7 +34,7 @@ El parser que estoy utilizando es OpenDataloader.
 
 # Código Utilizado
 
-Uso la versión del código del commit 4 del repositorio https://github.com/IgnacioCiminari/rag-pipeline.git, ejecutando ```uv run ./codigo/main.py``` en Windows con las dependencias del pyproject.toml del mismo repo. 
+Uso la versión del código del commit 4 del repositorio https://github.com/IgnacioCiminari/rag-pipeline.git, levantando el compose en ./parsers/engines/opendataloader-pdf/ y luego ejecutando ```uv run ./codigo/main.py``` en Windows con las dependencias del pyproject.toml del mismo repo. 
 
 # Resultados Observados
 
